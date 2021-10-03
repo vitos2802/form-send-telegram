@@ -1,0 +1,38 @@
+.Basic {
+	border: 2px solid grey;
+	border-radius: 10px;
+	background-color: rgb(238, 235, 50);
+	box-shadow: 0px 5px 10px 4px rgba(34, 60, 80, 0.2);
+	padding: 20px;
+	text-align: center;
+}
+
+
+.block {
+	margin-bottom: 15px;
+}
+
+.input {
+	width: 100%;
+	
+	box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+	
+}
+
+.input:not(:last-child) {
+	margin-bottom: 15px;
+}
+
+.inputHouseFlat {
+	width: 50%;
+}
+
+.button {
+	background: linear-gradient(45deg, #fe6b8b 30%, #ff8e53 90%);
+	border: 0;
+	border-radius: 3;
+	box-shadow: 0 3px 5px 2px rgba(255, 105, 135, 0.3);
+	color: white;
+	height: 48px;
+	padding: 0 30px;
+}
