@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/form-send-telegram/static/css/main.df05c2e4.chunk.css",
+    "main.js": "/form-send-telegram/static/js/main.49c4a4c2.chunk.js",
+    "main.js.map": "/form-send-telegram/static/js/main.49c4a4c2.chunk.js.map",
+    "runtime-main.js": "/form-send-telegram/static/js/runtime-main.b716e098.js",
+    "runtime-main.js.map": "/form-send-telegram/static/js/runtime-main.b716e098.js.map",
+    "static/js/2.96b919a1.chunk.js": "/form-send-telegram/static/js/2.96b919a1.chunk.js",
+    "static/js/2.96b919a1.chunk.js.map": "/form-send-telegram/static/js/2.96b919a1.chunk.js.map",
+    "index.html": "/form-send-telegram/index.html",
+    "static/css/main.df05c2e4.chunk.css.map": "/form-send-telegram/static/css/main.df05c2e4.chunk.css.map",
+    "static/js/2.96b919a1.chunk.js.LICENSE.txt": "/form-send-telegram/static/js/2.96b919a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b716e098.js",
+    "static/js/2.96b919a1.chunk.js",
+    "static/css/main.df05c2e4.chunk.css",
+    "static/js/main.49c4a4c2.chunk.js"
+  ]
+}
